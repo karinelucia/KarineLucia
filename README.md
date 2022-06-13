@@ -7,3 +7,10 @@
 >🌱 Atualmente estudando Typescript & Vue.js. // Currently studying Typescript & Vue.js.
 
 >🎮 Amo jogar online! //  I love playing online!
+
+
+ <div align="center">
+  <a href="https://github.com/karinelucia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=karinelucia&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinelucia&layout=compact&langs_count=7&theme=dark"/>
+</div>
